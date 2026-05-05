@@ -1,0 +1,11 @@
+CSS
+body {
+    background-color: #f5f5f5;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
